@@ -1,2 +1,6 @@
 # Eloquent_JavaScript
-JavaScript concepts and explanation covered in the book Eloquent JavaScript written by Marijn Haverbeke.
+<img src="/readme-img.png"></img>
+
+In this series, we will cover all core JavaScript coding concepts from the book `Eloquent JavaScript` by __Marijn Haverbeke__. This comprehensive guide will help you understand JavaScript from the ground up, with practical examples and real-world applications.
+
+

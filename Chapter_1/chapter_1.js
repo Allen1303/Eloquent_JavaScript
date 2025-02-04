@@ -7,7 +7,6 @@ let isRushDelivery = true;    // --> Boolean: Whether they want fast delivery
 let shirtMessage = null;      //--> Null: No custom message yet
 let giftWrap;                 // --> Undefined: Gift wrap option not set yet
 
-
 // Step 2: Calculate pricing (Arithmetic Operators)
 let basePrice = 9.99;         //--> Base cost per shirt
 let customizationFee = 4.50;  //--> Extra cost for custom design
@@ -38,4 +37,3 @@ console.log(`Delivery Method: ${deliveryType}`);//--> string value
 console.log(`Free Shipping: ${qualifiesForFreeShipping}`);//--> string value
 console.log(`Discount Applied: ${canGetDiscount}`);//--> string value
 
-const newNumber = 3
